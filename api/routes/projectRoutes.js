@@ -1,7 +1,7 @@
 /**
  * Created by 91178 on 25.07.2017.
  */
-module.exports = function(app) {
+module.exports = (app) => {
   const projectsController = require('../controllers/projectsController');
 
 
